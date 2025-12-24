@@ -102,6 +102,11 @@
     "weight": 1
   },
   {
+    "speciesId": "coalossal",
+    "fastMove": "FIRE_SPIN",
+    "weight": 1
+  },
+  {
     "speciesId": "cobalion",
     "chargedMoves": ["SACRED_SWORD","STONE_EDGE"],
     "weight": 1
