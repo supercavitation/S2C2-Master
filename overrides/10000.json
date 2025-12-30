@@ -68,6 +68,12 @@
     "weight": 1
   },
   {
+    "speciesId": "blacephalon",
+    "fastMove": "ASTONISH",
+    "chargedMoves": ["MIND_BLOWN","SHADOW_BALL"],
+    "weight": 1
+  },
+  {
     "speciesId": "blaziken",
     "chargedMoves": ["AURA_SPHERE","BLAST_BURN"],
     "weight": 1
